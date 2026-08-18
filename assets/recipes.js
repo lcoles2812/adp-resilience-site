@@ -7,6 +7,10 @@
   var countEl = document.getElementById('recipe-count');
   var filters = document.querySelectorAll('.recipe-filter');
 
+  // Only show recipes that have a real photo. The rest stay in
+  // recipes-data.js and will appear automatically once a photo is added.
+  var PUBLISHED = RECIPES.filter(function (r) { return !!r.image; });
+
   var PLACEHOLDER_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M7 3v7a2 2 0 002 2v9M7 3v7M9 3v7M11 3v7" stroke-linecap="round" stroke-linejoin="round"/><path d="M17 3c-1.5 0-2.5 1.8-2.5 5s1 5 2.5 5v8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 
   var SOURCE_LABEL = { adp: 'ADP Resilience', ct: 'Common Table Kitchen' };
@@ -63,7 +67,7 @@
   }
 
   function render(filter) {
-    var list = filter === 'all' ? RECIPES : RECIPES.filter(function (r) { return r.category === filter; });
+    var list = filter === 'all' ? PUBLISHED : PUBLISHED.filter(function (r) { return r.category === filter; });
     grid.innerHTML = list.length
       ? list.map(card).join('')
       : '<p class="recipe-empty">No recipes in this category yet.</p>';

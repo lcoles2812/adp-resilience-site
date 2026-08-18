@@ -493,9 +493,38 @@ const RECIPES = [
       "Meanwhile, grate the carrot and dice the peppers.",
       "Mix the drained tuna with the light mayo and season well with salt and black pepper.",
       "Combine the pasta, peas, carrot and peppers in a bowl.",
-      "Fold through the tuna mayo mixture and serve, or chill for a cold pasta salad.",
-      "DINNER",
-      "14 RECIPES"
+      "Fold through the tuna mayo mixture and serve, or chill for a cold pasta salad."
+    ],
+    "link": null
+  },
+  {
+    "id": "deconstructed-chicken-taco-bowl",
+    "title": "Deconstructed Chicken Taco Bowl",
+    "source": "adp",
+    "category": "lunch",
+    "time": null,
+    "calories": "580",
+    "protein": "67.8g",
+    "carbs": "39.4g",
+    "fat": "16.5g",
+    "image": "assets/images/recipes/deconstructed-chicken-taco-bowl.jpg",
+    "ingredients": [
+      "180g Chicken Breast, diced",
+      "Paprika, Chilli Powder, Garlic & Salt to season",
+      "1x Tomato, diced",
+      "1/2 Cucumber, diced",
+      "1/4 Red Onion, diced",
+      "30g Feta, crumbled",
+      "1x Lime Wedge",
+      "2x Tbsp Tomatillo/Salsa Verde",
+      "1x Large Wholemeal Tortilla"
+    ],
+    "method": [
+      "Season the diced chicken breast with paprika, chilli powder, garlic and salt, then pan-fry until cooked through and lightly charred.",
+      "Dice the tomato, cucumber and red onion, and crumble the feta.",
+      "Pack the chicken and vegetables into a container, keeping the salsa verde in its own section so nothing goes soggy.",
+      "Add the lime wedge and feta on top, and pack the tortilla separately, unassembled.",
+      "At work, warm the tortilla if you can, then pile in the chicken, vegetables, feta and salsa, squeeze over the lime, and roll into a wrap."
     ],
     "link": null
   },
