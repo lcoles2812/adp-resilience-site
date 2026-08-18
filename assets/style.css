@@ -110,7 +110,7 @@ header.nav{
   white-space: nowrap;
   flex: none;
 }
-.wordmark img{ height: 2.3rem; width: auto; display: block; }
+.wordmark img{ height: 1.9rem; width: auto; display: block; }
 
 .nav-links{
   display: flex;
