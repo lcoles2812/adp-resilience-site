@@ -929,12 +929,12 @@ const RECIPES = [
   {
     "title": "Burrito Bowl",
     "category": "lunch",
-    "time": "30–40 mins",
+    "time": "30-40 mins",
     "servings": 4,
-    "calories": "500–650",
-    "protein": "35–45g",
-    "carbs": "50–80g",
-    "fat": "15–25g",
+    "calories": "500-650",
+    "protein": "35-45g",
+    "carbs": "50-80g",
+    "fat": "15-25g",
     "image": "assets/images/recipes/ct-burrito-bowl.jpg",
     "link": "https://commontablekitchen.com.au/recipes/burrito-bowl.html",
     "ingredients": [
@@ -953,7 +953,7 @@ const RECIPES = [
       "1 tbsp mayo"
     ],
     "method": [
-      "Marinate the chicken: mix chipotle in adobo, garlic, cumin, paprika, lime juice, salt and a splash of oil. Coat the chicken and let it sit for at least 20–30 minutes.",
+      "Marinate the chicken: mix chipotle in adobo, garlic, cumin, paprika, lime juice, salt and a splash of oil. Coat the chicken and let it sit for at least 20-30 minutes.",
       "Cook the rice: rinse until the water runs mostly clear, cook as normal, then finish with salt and a squeeze of lime juice.",
       "Sear the chicken in a hot pan without overcrowding, undisturbed for a few minutes to char, then flip. Cook through and rest 5 minutes before slicing.",
       "Sauté onion and capsicum until lightly charred but still with some crunch.",
@@ -967,10 +967,10 @@ const RECIPES = [
   {
     "title": "Korean Beef Mince Rice Bowl",
     "category": "dinner",
-    "time": "30–35 mins",
+    "time": "30-35 mins",
     "servings": 4,
-    "calories": "650–800",
-    "protein": "40–45g",
+    "calories": "650-800",
+    "protein": "40-45g",
     "carbs": null,
     "fat": null,
     "image": "assets/images/recipes/ct-korean-beef-mince-bowl.jpg",
@@ -1005,12 +1005,12 @@ const RECIPES = [
   {
     "title": "Chicken Tikka Curry",
     "category": "dinner",
-    "time": "45–60 mins",
+    "time": "45-60 mins",
     "servings": 4,
-    "calories": "500–700",
-    "protein": "35–45g",
-    "carbs": "10–25g",
-    "fat": "25–40g",
+    "calories": "500-700",
+    "protein": "35-45g",
+    "carbs": "10-25g",
+    "fat": "25-40g",
     "image": "assets/images/recipes/ct-chicken-tikka-curry.jpg",
     "link": "https://commontablekitchen.com.au/recipes/chicken-tikka.html",
     "ingredients": [
@@ -1044,14 +1044,14 @@ const RECIPES = [
     "category": "dinner",
     "time": "35 mins",
     "servings": 2,
-    "calories": "520–680",
-    "protein": "35–45g",
-    "carbs": "30–45g",
-    "fat": "22–35g",
+    "calories": "520-680",
+    "protein": "35-45g",
+    "carbs": "30-45g",
+    "fat": "22-35g",
     "image": "assets/images/recipes/ct-crispy-salmon-sweet-potato-mash.jpg",
     "link": "https://commontablekitchen.com.au/recipes/crispy-skin-salmon-mash-carrots-spinach.html",
     "ingredients": [
-      "2 salmon fillets (180–220g each), skin on",
+      "2 salmon fillets (180-220g each), skin on",
       "1 tbsp olive oil, salt, pepper, lemon wedges",
       "600g sweet potato, peeled and chopped",
       "40g butter + reserved cooking water",
@@ -1061,12 +1061,12 @@ const RECIPES = [
       "1 tbsp butter or olive oil, 1 garlic clove, lemon juice"
     ],
     "method": [
-      "Boil sweet potato in salted water 12–15 minutes until tender.",
+      "Boil sweet potato in salted water 12-15 minutes until tender.",
       "Drain, mash smooth with butter, salt and pepper, loosening with a little cooking water if needed.",
-      "Boil Dutch carrots 8–10 minutes until tender, then toss with butter, honey, salt and pepper until glossy.",
-      "Pat salmon skin dry, season both sides, and cook skin-side down in olive oil over medium-high heat 6–8 minutes until crisp.",
-      "Flip and cook 30–60 seconds more, then rest 2–3 minutes.",
-      "Sauté garlic in butter, add spinach and toss 1–2 minutes until wilted. Finish with lemon."
+      "Boil Dutch carrots 8-10 minutes until tender, then toss with butter, honey, salt and pepper until glossy.",
+      "Pat salmon skin dry, season both sides, and cook skin-side down in olive oil over medium-high heat 6-8 minutes until crisp.",
+      "Flip and cook 30-60 seconds more, then rest 2-3 minutes.",
+      "Sauté garlic in butter, add spinach and toss 1-2 minutes until wilted. Finish with lemon."
     ],
     "id": "crispy-skin-salmon-with-sweet-potato-mash",
     "source": "ct"
@@ -1074,12 +1074,12 @@ const RECIPES = [
   {
     "title": "Steak and Veg",
     "category": "dinner",
-    "time": "30–40 mins",
+    "time": "30-40 mins",
     "servings": 1,
-    "calories": "550–800",
-    "protein": "40–55g",
-    "carbs": "30–50g",
-    "fat": "25–45g",
+    "calories": "550-800",
+    "protein": "40-55g",
+    "carbs": "30-50g",
+    "fat": "25-45g",
     "image": "assets/images/recipes/ct-steak-and-veg.jpg",
     "link": "https://commontablekitchen.com.au/recipes/steak-bowl.html",
     "ingredients": [
@@ -1094,7 +1094,7 @@ const RECIPES = [
     "method": [
       "Roast sweet potato in chunks, seasoned, at high heat until crispy outside and soft inside.",
       "Make the chimichurri: mix parsley, garlic, olive oil, vinegar and salt, and let it sit.",
-      "Season the steak generously and sear in a very hot pan to preferred doneness, then rest 5–10 minutes.",
+      "Season the steak generously and sear in a very hot pan to preferred doneness, then rest 5-10 minutes.",
       "Steam or blanch the broccolini, then finish in a hot pan with garlic.",
       "Slice the steak against the grain and serve with the sweet potato, broccolini and chimichurri."
     ],
@@ -1104,12 +1104,12 @@ const RECIPES = [
   {
     "title": "Spicy Peanut Noodles",
     "category": "dinner",
-    "time": "25–30 mins",
+    "time": "25-30 mins",
     "servings": 4,
-    "calories": "620–740",
-    "protein": "35–45g",
-    "carbs": "55–70g",
-    "fat": "22–30g",
+    "calories": "620-740",
+    "protein": "35-45g",
+    "carbs": "55-70g",
+    "fat": "22-30g",
     "image": "assets/images/recipes/ct-spicy-peanut-noodles.jpg",
     "link": "https://commontablekitchen.com.au/recipes/peanut-noodles.html",
     "ingredients": [
@@ -1130,7 +1130,7 @@ const RECIPES = [
     "method": [
       "Whisk peanut butter, soy sauces, rice vinegar, chilli crisp, honey and hot water into a smooth, pourable sauce.",
       "Brown the mince in a hot pan with a little oil until crispy in places.",
-      "Stir through garlic and ginger for 30–60 seconds until fragrant.",
+      "Stir through garlic and ginger for 30-60 seconds until fragrant.",
       "Cook the noodles per packet instructions and drain.",
       "Add noodles and peanut sauce to the mince, tossing until glossy and coated.",
       "Top with cucumber, spring onion, coriander and lime wedges."
@@ -1141,12 +1141,12 @@ const RECIPES = [
   {
     "title": "Sticky Beef Mince Bowl",
     "category": "dinner",
-    "time": "25–30 mins",
+    "time": "25-30 mins",
     "servings": 2,
-    "calories": "500–700",
-    "protein": "30–40g",
-    "carbs": "50–75g",
-    "fat": "20–35g",
+    "calories": "500-700",
+    "protein": "30-40g",
+    "carbs": "50-75g",
+    "fat": "20-35g",
     "image": "assets/images/recipes/ct-sticky-beef-mince-bowl.jpg",
     "link": "https://commontablekitchen.com.au/recipes/sticky-beef-mince.html",
     "ingredients": [
@@ -1161,7 +1161,7 @@ const RECIPES = [
     ],
     "method": [
       "Brown the beef mince in a very hot pan, pressing it down to build a deep crust before stirring.",
-      "Add onion and cook until soft and golden, then garlic for 30–60 seconds.",
+      "Add onion and cook until soft and golden, then garlic for 30-60 seconds.",
       "Add soy sauce and honey and let it reduce until sticky and glossy.",
       "Stir in miso paste and chicken stock, simmer gently to combine.",
       "Return the beef fully to the pan and simmer until the sauce thickens and clings to the mince.",
@@ -1173,10 +1173,10 @@ const RECIPES = [
   {
     "title": "Chicken Shawarma with Sweet Potato Puree",
     "category": "dinner",
-    "time": "40–50 mins",
+    "time": "40-50 mins",
     "servings": 4,
-    "calories": "650–750",
-    "protein": "45–50g",
+    "calories": "650-750",
+    "protein": "45-50g",
     "carbs": null,
     "fat": null,
     "image": "assets/images/recipes/ct-chicken-shawarma-sweet-potato.jpg",
@@ -1193,10 +1193,10 @@ const RECIPES = [
     ],
     "method": [
       "Slice chicken and marinate in olive oil, garlic, lemon, cumin, paprika, coriander, turmeric, cinnamon and chilli flakes for at least 30 minutes.",
-      "Toss sweet potato with garlic, oil and spices, and roast at 200°C for 30–40 minutes until caramelised.",
-      "Toss dried chickpeas with oil and spices and roast 25–30 minutes, shaking halfway, until crisp.",
+      "Toss sweet potato with garlic, oil and spices, and roast at 200°C for 30-40 minutes until caramelised.",
+      "Toss dried chickpeas with oil and spices and roast 25-30 minutes, shaking halfway, until crisp.",
       "Blend the roasted sweet potato with Greek yoghurt, lemon juice and a splash of stock until smooth.",
-      "Cook the marinated chicken in batches in a hot pan, 5–7 minutes, until caramelised and cooked through.",
+      "Cook the marinated chicken in batches in a hot pan, 5-7 minutes, until caramelised and cooked through.",
       "Roast the broccoli with oil, garlic powder, salt and pepper until charred and tender.",
       "Mix the garlic yoghurt, then plate the puree, chicken, chickpeas and broccoli. Drizzle with yoghurt and finish with herbs and toasted seeds."
     ],
