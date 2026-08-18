@@ -104,15 +104,13 @@ header.nav{
   border-bottom: 1px solid var(--line);
 }
 .wordmark{
-  font-family: var(--font-mono);
-  font-weight: 600;
-  font-size: 0.8rem;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
+  display: flex;
+  align-items: center;
   text-decoration: none;
   white-space: nowrap;
+  flex: none;
 }
-.wordmark span{ color: var(--accent); }
+.wordmark img{ height: 2.3rem; width: auto; display: block; }
 
 .nav-links{
   display: flex;
